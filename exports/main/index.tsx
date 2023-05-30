@@ -4,6 +4,7 @@ import {
   Container,
   HStack,
   Heading,
+  Text,
   VStack,
 } from "@chakra-ui/react";
 
@@ -14,6 +15,7 @@ export function MainContent() {
         <Heading as={"h2"} size={"lg"}>
           Radio 24/7's Documentation
         </Heading>
+        <Text>Coming Soon</Text>
       </VStack>
     </Box>
   );
